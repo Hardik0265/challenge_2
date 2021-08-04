@@ -1,0 +1,2 @@
+class Apple < PublicSchema
+end
